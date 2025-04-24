@@ -18,9 +18,9 @@
 
 ------
 <div style="display: flex; justify-content: space-between;">
-    <img src="./figs/redar_inference.jpg" style="width: 32%;" alt="radar">
-    <img src="./figs/redar_sft.jpg" style="width: 32%;" alt="radar">
-    <img src="./figs/redar_IT.jpg" style="width: 32%;" alt="radar">
+    <img src="./figs/radar_zero.jpg" style="width: 32%;" alt="radar">
+    <img src="./figs/radar_sft.jpg" style="width: 32%;" alt="radar">
+    <img src="./figs/radar_it.jpg" style="width: 32%;" alt="radar">
 </div>
 
 ## Evaluation Datasets
@@ -107,11 +107,11 @@ We show the results of three evaluation methods (i.e., zero-shot inference, SFT,
 
 #### Zero-shot Inference and Supervised Fine-tuning (SFT)
 
-![zero-sft](./figs/zero_sft.jpg)
+![zero-sft](./figs/zero-sft-fine.jpg)
 
 #### Instruction Tuning (IT)
 
-![image-20250415145905173](./figs/instruct.jpg)
+![image-20250415145905173](./figs/it-fine.jpg)
 
 **To do: the code of zero-shot inference, SFT, and IT will be released soon.**
 
