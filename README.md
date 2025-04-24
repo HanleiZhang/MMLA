@@ -117,7 +117,7 @@ We show the results of three evaluation methods (i.e., zero-shot inference, SFT,
 
 ## Acknowledgements 
 
-If our work is helpful to your research, please **give us a star or fork** and **cite** the following paper: 🌟
+If our work is helpful to your research, please **give us a star 🌟** and **cite** the following paper: 
 
 ```
 @article{zhang2025mmla,
