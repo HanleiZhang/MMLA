@@ -6,7 +6,8 @@
 
 
 ## News
-- **[2025.04.24]**: 📜 Our paper: **Can Large Language Models Help Multimodal Language Analysis? MMLA: A Comprehensive Benchmark** is posted on [arXiv](https://arxiv.org/abs/2504.16427). The official repo is released and the data and code will be released soon.
+- **[2025.04.29]**: 🔥 🔥 🔥 The datasets of the MMLA benchmark are released on [Huggingface](https://huggingface.co/datasets/THUIAR/MMLA-Datasets)! The code will be released soon.
+- **[2025.04.24]**: 📜 Our paper: **Can Large Language Models Help Multimodal Language Analysis? MMLA: A Comprehensive Benchmark** is released ([arXiv](https://arxiv.org/abs/2504.16427), [Huggingface](https://huggingface.co/papers/2504.16427), [alphaXiv](https://www.alphaxiv.org/abs/2504.16427)). The official repo is released.
 
 ## Overview of the MMLA Benchmark 
 ![method](./figs/method.jpg)
@@ -39,6 +40,8 @@
 |     Speaking Style     |       MUStARD       | [Paper](https://aclanthology.org/P19-1455/) / [GitHub](https://github.com/Himanshu-sudo/MUStARD-dataset) |                ACL 2019                |
 | Communication Behavior |  Anno-MI (client)   | [Paper ](https://doi.org/10.3390/fi15030110)/ [GitHub](https://github.com/uccollab/AnnoMI) |          ICASSP 2022          |
 | Communication Behavior | Anno-MI (therapist) | [Paper](https://doi.org/10.3390/fi15030110) / [GitHub](https://github.com/uccollab/AnnoMI) |          ICASSP 2022         |
+
+The raw text and videos of each dataset all released on [Huggingface](https://huggingface.co/datasets/THUIAR/MMLA-Datasets). Note that for MOSI, IEMOCAP, and IEMOCAP-DA datasets, we only provide the raw texts due to their restricted license. The raw videos of IEMOCAP can be downloaded from [here](https://sail.usc.edu/iemocap/iemocap_release.htm). The MOSI dataset cannot be released due to the privacy limitation as mentioned in [CMU-MultimodalSDK](https://github.com/CMU-MultiComp-Lab/CMU-MultimodalSDK).
 
 ## Evaluation Models
 
