@@ -5,7 +5,7 @@
 > Multimodal language analysis is a rapidly evolving field that leverages multiple modalities to enhance the understanding of high-level semantics underlying human conversational utterances. Despite its significance, little research has investigated the capability of multimodal large language models (MLLMs) to comprehend cognitive-level semantics. In this paper, we introduce MMLA, a comprehensive benchmark specifically designed to address this gap. MMLA comprises over 61K multimodal utterances drawn from both staged and real-world scenarios, covering six core dimensions of multimodal semantics: intent, emotion, dialogue act, sentiment, speaking style, and communication behavior. We evaluate eight mainstream branches of LLMs and MLLMs using three methods: zero-shot inference, supervised fine-tuning, and instruction tuning. Extensive experiments reveal that even fine-tuned models achieve only about 60%~70% accuracy, underscoring the limitations of current MLLMs in understanding complex human language. We believe that MMLA will serve as a solid foundation for exploring the potential of large language models in multimodal language analysis and provide valuable resources to advance this field.
 
 
-## News
+## Updates
 - **[2025.04.29]**: 🔥 🔥 🔥 The datasets of the MMLA benchmark are released on [Huggingface](https://huggingface.co/datasets/THUIAR/MMLA-Datasets)! The code will be released soon.
 - **[2025.04.24]**: 📜 Our paper: **Can Large Language Models Help Multimodal Language Analysis? MMLA: A Comprehensive Benchmark** is released ([arXiv](https://arxiv.org/abs/2504.16427), [Huggingface](https://huggingface.co/papers/2504.16427), [alphaXiv](https://www.alphaxiv.org/abs/2504.16427)). The official repo is released on Github.
 
