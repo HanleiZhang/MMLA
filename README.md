@@ -7,7 +7,7 @@
 
 ## News
 - **[2025.04.29]**: 🔥 🔥 🔥 The datasets of the MMLA benchmark are released on [Huggingface](https://huggingface.co/datasets/THUIAR/MMLA-Datasets)! The code will be released soon.
-- **[2025.04.24]**: 📜 Our paper: **Can Large Language Models Help Multimodal Language Analysis? MMLA: A Comprehensive Benchmark** is released ([arXiv](https://arxiv.org/abs/2504.16427), [Huggingface](https://huggingface.co/papers/2504.16427), [alphaXiv](https://www.alphaxiv.org/abs/2504.16427)). The official repo is released.
+- **[2025.04.24]**: 📜 Our paper: **Can Large Language Models Help Multimodal Language Analysis? MMLA: A Comprehensive Benchmark** is released ([arXiv](https://arxiv.org/abs/2504.16427), [Huggingface](https://huggingface.co/papers/2504.16427), [alphaXiv](https://www.alphaxiv.org/abs/2504.16427)). The official repo is released on Github.
 
 ## Overview of the MMLA Benchmark 
 ![method](./figs/method.jpg)
