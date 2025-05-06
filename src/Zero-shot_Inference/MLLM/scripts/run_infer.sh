@@ -1,6 +1,6 @@
 #!/bin/bash
 
-BASE_PATH="/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei"
+BASE_PATH=""
 BASE_DATA_PATH="$BASE_PATH/Datasets"
 CONDA_PATH="$BASE_PATH/anaconda3/bin/conda"
 INFERENCE_PATH="$BASE_PATH/MMLA_Code/Zero-shot_Inference/MLLM"
