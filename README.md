@@ -1,7 +1,7 @@
 # Can Large Language Models Help Multimodal Language Analysis? MMLA: A Comprehensive Benchmark
 
 <p align="center">
-        🤗 <a href="https://huggingface.co/datasets/THUIAR/MMLA-Datasets">Hugging Face</a>&nbsp&nbsp | &nbsp&nbsp📑 <a href="https://arxiv.org/abs/2504.16427">Paper</a>&nbsp&nbsp | &nbsp&nbsp📑 <a href="https://drive.google.com/drive/folders/1nCkhkz72F6ucseB73XVbqCaDG-pjhpSS?usp=sharing">Datasets</a>&nbsp&nbsp
+        🤗 <a href="https://huggingface.co/datasets/THUIAR/MMLA-Datasets">Hugging Face</a>&nbsp&nbsp | &nbsp&nbsp📑 <a href="https://arxiv.org/abs/2504.16427">Paper</a>&nbsp&nbsp | &nbsp&nbsp📑 <a href="https://drive.google.com/drive/folders/1nCkhkz72F6ucseB73XVbqCaDG-pjhpSS?usp=sharing">Datasets</a>&nbsp&nbsp| &nbsp&nbsp💬 <a href="https://github.com/thuiar/MMLA/tree/main/figs/WeChat.png">WeChat (微信)</a>&nbsp&nbsp 
 <br>
 </p>
 
