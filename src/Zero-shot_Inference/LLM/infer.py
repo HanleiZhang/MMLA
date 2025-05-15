@@ -109,6 +109,8 @@ def parse_arguments():
     parser.add_argument('--base_model_path', type=str, default='', help="LLM Path")
  
     parser.add_argument('--base_data_path', type=str, default='', help="BASE DATA PATH")
+
+    parser.add_argument('--merge_model_path', type=str, default='', help="MERGE MODEL PATH")
     
     parser.add_argument('--dataset', type=str, default='MIntRec', help="Dataset Name")
 
@@ -145,7 +147,7 @@ def run_model(args, model, tokenizer, json_file_path, labels_dict, logger):
         
         id= item['id']
         video_name = item['video']
-        logger.info(f"Starting inference with text information of video: {video_name}")
+        logger.info(f"Starting inference for video: {video_name}")
 
         context = item['conversations'][0]['value']
         true_label = item['conversations'][1]['value']
@@ -251,7 +253,7 @@ def run_model(args, model, tokenizer, json_file_path, labels_dict, logger):
 
 def inference(args):
 
-    model_path = args.base_model_path
+    model_path = args.base_model_path if args.merge_model_path == '' else args.merge_model_path
 
     tokenizer = AutoTokenizer.from_pretrained(model_path, device_map = "auto", trust_remote_code = True)
     model = AutoModelForCausalLM.from_pretrained(model_path, device_map = "auto", trust_remote_code = True, torch_dtype = torch.float16)

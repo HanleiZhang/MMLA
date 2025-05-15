@@ -1,13 +1,15 @@
 #!/bin/bash
 
-BASE_PATH=""
+# mgpu put_task --session_name yshzhu_nj_llm4_1x8 --cmd 'bash /mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/MMLA_Code/Zero-shot_Inference/MLLM/scripts/run_infer.sh'
+
+BASE_PATH="/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/MMLA_Code"
 BASE_DATA_PATH="$BASE_PATH/Datasets"
 CONDA_PATH="$BASE_PATH/anaconda3/bin/conda"
-INFERENCE_PATH="$BASE_PATH/MMLA_Code/Zero-shot_Inference/MLLM"
+FRAMEWORK_PATH="$BASE_PATH/MMLA/src/Frameworks/Swift"
+INFERENCE_PATH="$BASE_PATH/src/Zero-shot_Inference/MLLM"
 RESULTS_PATH="$INFERENCE_PATH/results"
-EVALUATION_PATH="$BASE_PATH/MMLA_Code/Zero-shot_Inference"
+EVALUATION_PATH="$BASE_PATH/src/Zero-shot_Inference"
 
-############ You can select one model for inference below. ############
 # MODEL_NAMES=("LLaVA-Video-72B-Qwen2") 
 # MODEL_NAMES=("LLaVA-Video-7B-Qwen2") 
 # MODEL_NAMES=("Qwen2-VL-7B-Instruct") 
@@ -90,7 +92,7 @@ for MODEL_NAME in "${MODEL_NAMES[@]}"; do
             CUDA_VISIBLE_DEVICES=${DEVICE_IDS} NPROC_PER_NODE=$nproc_per_node ${CONDA_PATH} run -n ${ENV_NAME} swift infer \
                 --model $BASE_MODEL_PATH \
                 --infer_backend pt \
-                --val_dataset $INFERENCE_PATH/$MODEL_NAME/video_prompt_data/${DATASET_NAME}_test.jsonl \
+                --val_dataset $FRAMEWORK_PATH/video_prompt_data/${DATASET_NAME}_test.jsonl \
                 --result_path $RESULTS_PATH/$MODEL_NAME/${DATASET_NAME}_${TASK_NAME}_result.jsonl
         else
             ${CONDA_PATH} run -n ${ENV_NAME} --no-capture-output python ${INFERENCE_PATH}/${python_script} \

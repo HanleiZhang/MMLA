@@ -109,13 +109,17 @@ def parse_arguments():
 
     parser.add_argument('--base_data_path', type=str, default='/Datasets', help="BASE DATA PATH")
     
+    parser.add_argument('--lora_path', type=str, default='None', help="MERGE MODEL PATH")
+    
     parser.add_argument('--dataset', type=str, default='MIntRec', help="Dataset Name")
 
-    parser.add_argument('--task', type=str, default='intent', help="INTENT Name")
+    parser.add_argument('--task', type=str, default='intent', help="Task Name")
 
     parser.add_argument('--results_path', type=str, default='results', help="Results Path")
 
     parser.add_argument('--device_ids', type=str, default='0', help="Device Ids")
+
+    parser.add_argument('--run_name', type=str, default='run_name', help="Run Name")
 
     args = parser.parse_args()
 
@@ -134,24 +138,13 @@ def save_results_to_csv(results, csv_file_path):
             csv_writer.writerow(result)
 
 def load_video(video_path):
-    '''
-    Args:
-        filename (str): 视频文件的文件名.
-        num_frames (int): 需要从视频中提取的帧数.
-    Returns:
-        np.ndarray: 解码后的帧，形状为 (num_frames, height, width, 3).
-    '''
 
-    # 打开视频容器
     container = av.open(video_path)
     
-    # 获取视频的总帧数
     total_frames = container.streams.video[0].frames
     
-    # 计算需要抽取的帧的索引
     indices = np.linspace(0, total_frames - 1,  4).astype(int)
     
-    # 定义解码视频帧的函数
     def read_video_pyav(container, indices):
         frames = []
         container.seek(0)
@@ -164,7 +157,6 @@ def load_video(video_path):
                 frames.append(frame)
         return np.stack([x.to_ndarray(format="rgb24") for x in frames])
     
-    # 解码指定帧
     clip = read_video_pyav(container, indices)
     
     return clip
@@ -236,13 +228,24 @@ def inference(args):
     os.environ['CUDA_VISIBLE_DEVICES'] = args.device_ids
     os.environ["HF_ENDPOINT"] = "https://hf-mirror.com" 
 
-    tokenizer, model, processor, max_length = load_pretrained_model(
-        args.base_model_path, 
-        None, 
-        "llava_qwen", 
-        torch_dtype="bfloat16", 
-        device_map='auto',
-    )
+    if args.lora_path != '':
+        model_name = get_model_name_from_path(args.run_name)
+        tokenizer, model, processor, max_length = load_pretrained_model(
+            args.lora_path,
+            args.base_model_path, 
+            model_name, 
+            torch_dtype="bfloat16", 
+            device_map='auto',
+            attn_implementation="flash_attention_2"
+        )
+    else:
+        tokenizer, model, processor, max_length = load_pretrained_model(
+            args.base_model_path, 
+            None, 
+            "llava_qwen", 
+            torch_dtype="bfloat16", 
+            device_map='auto',
+        )
 
     model.eval()
     video_path = os.path.join(args.base_data_path, args.dataset, 'video')

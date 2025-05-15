@@ -110,7 +110,9 @@ def parse_arguments():
     parser = argparse.ArgumentParser()
 
     parser.add_argument('--base_model_path', type=str, default='', help="LLM Path")
- 
+    
+    parser.add_argument('--merge_model_path', type=str, default='', help="MERGE MODEL PATH")
+    
     parser.add_argument('--base_data_path', type=str, default='', help="BASE DATA PATH")
     
     parser.add_argument('--dataset', type=str, default='MIntRec', help="Dataset Name")
@@ -259,8 +261,10 @@ def inference(args):
     os.environ['CUDA_VISIBLE_DEVICES'] = args.device_ids
     os.environ["HF_ENDPOINT"] = "https://hf-mirror.com" 
     
+    model_path = args.base_model_path if args.merge_model_path == '' else args.merge_model_path
+
     model = Qwen2VLForConditionalGeneration.from_pretrained(
-        args.base_model_path,
+        model_path,
         torch_dtype="bfloat16", 
         attn_implementation="flash_attention_2",
         device_map="auto",
