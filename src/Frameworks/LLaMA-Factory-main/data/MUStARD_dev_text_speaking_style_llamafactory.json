@@ -1,0 +1,1934 @@
+[
+    {
+        "id": 0,
+        "video": "MUSTARD_1_340.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Sure, cut the foreigner in half. There's a billion more where he came from. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "video": "MUSTARD_1_427.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Well, I'm sorry, too, but there's just no room for you in my wallet. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "video": "MUSTARD_1_537.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Oh, you know, that is so weird that yours came and mine didn't. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "video": "MUSTARD_1_971.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: - Now?! - No, after my tongue has swollen to the size of a brisket! Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "video": "MUSTARD_1_1144.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Notify the editors of the Oxford English Dictionary. The word \"plenty\" has been redefined to mean \"two.\" Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "video": "MUSTARD_1_1666.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Would it work if I just punched you in the face? Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "video": "MUSTARD_1_1678.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Answering the question once and for all why Wolowitz bailed out of medical school. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "video": "MUSTARD_1_1798.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: If you don't like this stuff, let's go next door and build her a bear. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "video": "MUSTARD_1_2420.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: You know this can go on all night. Why don't you just come with us? Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "video": "MUSTARD_1_2664.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Terrific, it's just that... I don't think Penny wants me to go. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "video": "MUSTARD_1_2797.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: It's an iCal download. She can put it right in her phone. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "video": "MUSTARD_1_3204.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Right. That was so good! Sweety and meaty at the same time. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "video": "MUSTARD_1_3476.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Don't you think looking for a new city to live in is a bit of an overreaction? Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "video": "MUSTARD_1_3660.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: There a new girlfriend in there? 'Cause you might need one. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "video": "MUSTARD_1_3840.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: I read a study online that walking after a meal not only aids in digestion, but increases serotonin, and you know me, if there's one thing I like more than a refreshing beverage, it's serotonin. Bye-bye. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "video": "MUSTARD_1_4281.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: It was the kind of thing that makes it kind of hard to face her now. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "video": "MUSTARD_1_4477.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: I just want to ask you a few questions about Howard Wolowitz. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "video": "MUSTARD_1_4760.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: In the bedrooms of ten-year- old girls, where they belong. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "video": "MUSTARD_1_4995.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Hey, you taught me something. Who would have thought it? Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "video": "MUSTARD_1_5058.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: An entire dinner to talk about your research? Where you going, the drive-thru at Jack in the Box? Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "video": "MUSTARD_1_5134.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Oh, yeah, yeah. It's real great. Today I drove to Van Nuys for an audition I thought was going to be for a cat food commercial. Turned out to be porn. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "video": "MUSTARD_1_5156.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: That's got to be fun for you, huh? Watching Hofstadter suck the saliva out of your sister's mouth? Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "video": "MUSTARD_1_5211.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Saying that while holding a snowflake is a bit heavy-handed, don't you think? Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "video": "MUSTARD_1_5496.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Okay, Amy, you're being silly. I'm not concerned about who hangs out with who. And I certainly don't have a problem with Leonard's new girlfriend who wears way too much makeup. Ooh, these are cute. Of course if I buy them, I'll have to rent my womb out to a gay couple. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "video": "MUSTARD_1_5580.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Right, right, whereas Jewish mothers take a casual, la-di-da approach to their sons. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "video": "MUSTARD_1_5679.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: I'd like to respond to that sarcastically: Yes, I relish the thought of a stranger covering my body with oil and rubbing it. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "video": "MUSTARD_1_5786.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: All right, so technically it's not a dinner date. I suppose you could call it a, uh, dinfast date. But if you did, you'd open yourself to peer-based mocking, such as, \"Hey, Leonard, how was your dinfast with Priya last night?\" Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "video": "MUSTARD_1_5919.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Because you don't have a girlfriend? Well, good Lord, if that becomes a reason not to play Dungeons & Dragons, this game's in serious trouble. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "video": "MUSTARD_1_5964.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Smart. Whisper so the deaf chick can't hear you. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "video": "MUSTARD_1_6165.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Yes, there's nothing quite like the slightly widened eyes of mildly startled. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "video": "MUSTARD_1_6221.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Well, if you don't mind looking like an orange traffic cone, great. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "video": "MUSTARD_1_6683.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Yeah, terrific. The other astronauts would love to go hurtling through space with a guy named \"Crash.\" Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "video": "MUSTARD_1_6769.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Hope your hands are steady. It's the width of a single hair. But this is just biology, so I'm sure it's no problem for a genius like you. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "video": "MUSTARD_1_7281.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Darn. If you weren't busy, I'd ask you to join us. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "video": "MUSTARD_1_7341.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: I am talking to a man in space. If you don't have the (walkie-talkie static) then he might as well be at the Coffee Bean over on Lake Street. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "video": "MUSTARD_1_7357.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: I'm starting to get a sense of it. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "video": "MUSTARD_1_7593.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Amy, I can't just ask Wil Wheaton to leave. He's a minor celebrity. Once you explain who he is, many people recognize him. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "video": "MUSTARD_1_7894.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: I did. The guy at the liquor store said this stuff tastes great in coffee. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "video": "MUSTARD_1_8136.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Yeah, I'm really looking forward to it. In fact, there's no place I would rather be than here. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "video": "MUSTARD_1_8407.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Oh, sure, what a wonderful idea. And after that, I'll make up my own rules of oral hygiene. You know, instead of flossing, I'll rub pudding on my gums. I'm going to get the number of the SyFy Channel and give them what for. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "video": "MUSTARD_1_8452.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: I think I'm gonna go. Thank you for the burrito and the pork rinds and the 20-minute lecture on why monster trucks are better than regular trucks. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "video": "MUSTARD_1_8746.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: I enjoyed it. When you told me I was going to be \"losing my virginity,\" I didn't think you meant showing me <i>Raiders of the Lost Ark</i> for the first time. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "video": "MUSTARD_1_8827.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: How do you not tear off his clothes and take him right here on this table? Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "video": "MUSTARD_1_9009.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: - No, no, no. I'm really good at this. All right, give me a hint. Does it involve difficulty initiating a stream of anything? Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "video": "MUSTARD_1_9087.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Why? Because I got an ugly, itchy sweater, and my brother got a car? No, I was her favorite. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "video": "MUSTARD_1_10004.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: And of those few months, how long have you been a demented sex pervert? Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "video": "MUSTARD_1_10748.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: There they go, fighting again. You'd never hear her talk that way to Sauvignon Blanc. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "video": "MUSTARD_1_10797.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: I'm with him three years, nothing. She's with two minutes, and he's taking his pants off. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "video": "MUSTARD_1_10810.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: I'll give you a plan right now. Step one: open comic book store. Step two: start rumor this comic book store gives you genital warts. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "video": "MUSTARD_1_10849.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: That's how much buying a comic book store means to me. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "video": "MUSTARD_1_10977.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Let's not talk about this in front of our friends. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "video": "MUSTARD_1_11201.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: He probably got a new one. Finish your breakfast. Look, there's an entire section of my dashboard that doesn't have any syrup on it. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "video": "MUSTARD_1_11224.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: And here I am in the trap. You just keep talking. I'm gonna chew my leg off. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "video": "MUSTARD_1_11439.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: No, you're right, we should do what you do. Have our mom send us pants from the Walmart in Houston. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "video": "MUSTARD_1_11485.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Is that why you had to take him to Office Depot last night? Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "video": "MUSTARD_1_12320.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Oh, yes, we've got the moon and the trees and... Elizabeth McNulty, who apparently died when she was the same age I am. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "video": "MUSTARD_1_12331.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Wow, there's a Denny's in Vegas you can actually get married in. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "video": "MUSTARD_2_498.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Uh, so how many cameras are actually on you. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "video": "MUSTARD_2_35.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Oh no donÕt go. I have scared you. I have said too much. I am hopeless and awkward and desperate for love. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "video": "MUSTARD_2_377.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Yeah either that or gloria estefan was right eventually the rhythm is going to get you Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "video": "MUSTARD_2_464.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Oh, uh, no thanks. I just had an M&M. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "video": "MUSTARD_2_574.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: You can't do anything. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "video": "MUSTARD_2_549.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Really? Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "video": "MUSTARD_2_374.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Janice? Janice? Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "video": "MUSTARD_2_297.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: I am sorry, it was a one time thing. I was very drunk and it was someone else's subconscious Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "video": "MUSTARD_2_478.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Oh, wait a minute, I have no one. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "video": "MUSTARD_2_109.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: I thought if I littered, that crying Indian might come by and save us. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "video": "MUSTARD_2_322.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Hey, my father's house does that. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "video": "MUSTARD_2_622.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Pheebs, you may know this, you know strange things. What is the boiling point of brain? Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 69,
+        "video": "MUSTARD_2_450.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: If only there was something in your head to control the things you say. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 70,
+        "video": "MUSTARD_2_567.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Well yes Ross, pressing my third nipple opens the delivery entrance to the magical land of Narnia. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "video": "MUSTARD_2_288.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Maybe he was nervous. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 72,
+        "video": "MUSTARD_2_487.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: And Hornswoggle? What? Are you dating a character from \"Fraggle Rock\"? Ahh. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 73,
+        "video": "MUSTARD_2_280.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Joey ate my last stick of gum, so I killed him. Do you think that was wrong? Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "video": "MUSTARD_2_376.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Me? I am gonna die alone! Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "video": "MUSTARD_2_490.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Maybe it's a contest, you know? Like \"Collect all five\". Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "video": "MUSTARD_2_430.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: I guess you would know that or else we would be in a predicament room Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "video": "MUSTARD_2_24.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Uh, okay. The fifth dentist caved and not they're all recommending Trident? Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 78,
+        "video": "MUSTARD_2_602.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: No way! Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "video": "MUSTARD_2_557.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Oh my God, wh-what happened? Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "video": "MUSTARD_2_448.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Do you still wanna call  'em? I wanna call  'em. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "video": "MUSTARD_2_191.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: So, you're just Bing? Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "video": "MUSTARD_2_406.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: For what? For letting you throw me out of your office? Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 83,
+        "video": "MUSTARD_2_423.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Like I have nothing better to do! Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "video": "MUSTARD_2_147.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Well, we're trying to find someone to perform our wedding and they're all either boring or annoying or y'know, can't stop staring at the ladies. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "video": "MUSTARD_2_313.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Oh sure, go with the sissy. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 86,
+        "video": "MUSTARD_2_107.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: You'd better act surprised. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 87,
+        "video": "MUSTARD_2_506.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Oh my God!! Ohh, that is it! I'm leaving! You are just a horrible person! Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 88,
+        "video": "MUSTARD_2_36.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: The big deal is I don't want naked, greasy strangers in my apartment when I want to kick back with a puzzle,beer! Cold beer. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 89,
+        "video": "MUSTARD_2_38.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: It's not a real game! I made it up! Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 90,
+        "video": "MUSTARD_2_13.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: All right, let's do it. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 91,
+        "video": "MUSTARD_2_316.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Yeah, I'm fine. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 92,
+        "video": "MUSTARD_2_8.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: It's white plastic, with a handle, and it fits onto a stroller. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "video": "MUSTARD_2_343.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: So to sum up, I'm Professor Geller. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 94,
+        "video": "MUSTARD_2_282.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: What-wh-what so we'll just stay married forever? Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 95,
+        "video": "MUSTARD_2_514.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: What's going on?!  That's what's going on!! Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 96,
+        "video": "MUSTARD_2_177.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: I can show you an ID if you want? Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 97,
+        "video": "MUSTARD_2_210.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: When are you coming home? Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 98,
+        "video": "MUSTARD_2_234.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: See, there you go, the cleansing works! Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 99,
+        "video": "MUSTARD_2_194.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: And it came out, \"Squatternut buash?\" Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 100,
+        "video": "MUSTARD_2_261.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Oh, no, no. I just meant hypothetically. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "video": "MUSTARD_2_585.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: You and I, we're interfacing. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "video": "MUSTARD_2_91.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Alright, I'm gonna go pick up a few things for the trip. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 103,
+        "video": "MUSTARD_2_560.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: So now I have to go so he'll think that I'm totally ok with seeing him! Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 104,
+        "video": "MUSTARD_2_481.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: All right. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 105,
+        "video": "MUSTARD_2_293.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: No Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 106,
+        "video": "MUSTARD_2_569.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Chandler? Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 107,
+        "video": "MUSTARD_2_555.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Hey! It's starting to snow. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 108,
+        "video": "MUSTARD_2_441.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: He's right, even if it's to say something complementary. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 109,
+        "video": "MUSTARD_2_218.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Hey, does somebody wanna hand me one of those tiles. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 110,
+        "video": "MUSTARD_2_245.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Well ah, I've been doing a lot of thinking, and I look at my life Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 111,
+        "video": "MUSTARD_2_176.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: I'm the ruptured spleen. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "video": "MUSTARD_2_400.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Anyway, I should go, one of the lifeguards was just about to dismantle a nuclear device. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "video": "MUSTARD_2_180.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: That oughta do it. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "video": "MUSTARD_2_270.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Hey. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "video": "MUSTARD_2_547.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Okay, now much have you won so far? Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "video": "MUSTARD_2_521.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Uh-huh! Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "video": "MUSTARD_2_254.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Yeah. Yeah, that's what you need a good .. pill. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "video": "MUSTARD_2_467.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: That is the coast guard! Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "video": "MUSTARD_2_259.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: I wasn't by myself. I had a doctor, a nurse, and a helper guy. So, did you see who won the game? Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "video": "MUSTARD_2_609.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: I just called a friend of mine. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "video": "MUSTARD_2_371.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: I-I'm really sorry. It's just that I Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "video": "MUSTARD_2_531.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Yeah well that's because uh .. I stayed in my room. Yeah, you don't want to look in my hamper. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "video": "MUSTARD_2_326.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Stick to the list. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "video": "MUSTARD_2_171.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: What is the matter with your face?! Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "video": "MUSTARD_2_558.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: I can see it from right here. It'll cost you one husband. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "video": "MUSTARD_2_289.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Nooo! No, that's not true. No, best time ever! Yeah, you rocked my world! Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "video": "MUSTARD_2_599.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: No I am upset because crocodin turbs are wearing darker colors. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "video": "MUSTARD_2_479.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: No I am worried she might be Phir Resuda's Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "video": "MUSTARD_2_398.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Rose, you should sit here and watch her hack herself to death Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "video": "MUSTARD_2_74.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Show them your slides of Hawaii Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "video": "MUSTARD_2_121.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: What was I doing? My ben gazara in person? Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "video": "MUSTARD_2_527.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: We thought you were just here for the company. He is a sarcasmoholic Stewart. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "video": "MUSTARD_2_123.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Nooo! Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "video": "MUSTARD_2_570.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Oh my god, where are all the men? Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sincere",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "video": "MUSTARD_2_438.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Really? Struck down in the prime of life. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "video": "MUSTARD_2_373.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: I was making a coconut phone with a professor. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "video": "MUSTARD_2_546.mp4",
+        "conversations": [
+            {
+                "value": "The speaker says: Oh sure, she was probably up all night excited about the party she knows is happening. Based on the text, what is the speaking_style of this speaker?\nThe candidate labels for speaking_style are: [sincere, sarcastic]. Respond in the format: 'speaking_style: [label]'.Only one label should be provided.",
+                "from": "human"
+            },
+            {
+                "value": "speaking_style: sarcastic",
+                "from": "gpt"
+            }
+        ]
+    }
+]
