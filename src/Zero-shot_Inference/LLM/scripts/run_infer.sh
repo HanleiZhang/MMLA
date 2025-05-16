@@ -2,12 +2,12 @@
 
 # mgpu put_task --session_name yshzhu_nj_llm1_1x8 --cmd 'bash /mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/MMLA_Code/Zero-shot_Inference/LLM/scripts/run_infer.sh'
 
-BASE_PATH="/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/MMLA"
+BASE_PATH="/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei"
 BASE_DATA_PATH="$BASE_PATH/Datasets"
 CONDA_PATH="$BASE_PATH/anaconda3/bin/conda"
-INFERENCE_PATH="$BASE_PATH/src/Zero-shot_Inference/LLM"
+INFERENCE_PATH="$BASE_PATH/MMLA/src/Zero-shot_Inference/LLM"
 RESULTS_PATH="$INFERENCE_PATH/results"
-EVALUATION_PATH="$BASE_PATH/src/Zero-shot_Inference"
+EVALUATION_PATH="$BASE_PATH/MMLA/src/Zero-shot_Inference"
 
 # MODEL_NAMES=("Llama_3_1_8B_Instruct") 
 # MODEL_NAMES=("Llama_3_2_1B_Instruct") 
