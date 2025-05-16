@@ -9,7 +9,6 @@
 
 > Multimodal language analysis is a rapidly evolving field that leverages multiple modalities to enhance the understanding of high-level semantics underlying human conversational utterances. Despite its significance, little research has investigated the capability of multimodal large language models (MLLMs) to comprehend cognitive-level semantics. In this paper, we introduce MMLA, a comprehensive benchmark specifically designed to address this gap. MMLA comprises over 61K multimodal utterances drawn from both staged and real-world scenarios, covering six core dimensions of multimodal semantics: intent, emotion, dialogue act, sentiment, speaking style, and communication behavior. We evaluate eight mainstream branches of LLMs and MLLMs using three methods: zero-shot inference, supervised fine-tuning, and instruction tuning. Extensive experiments reveal that even fine-tuned models achieve only about 60%~70% accuracy, underscoring the limitations of current MLLMs in understanding complex human language. We believe that MMLA will serve as a solid foundation for exploring the potential of large language models in multimodal language analysis and provide valuable resources to advance this field.
 
-
 ## Updates
 - **[2025.05.16]**: 🔥 🔥 🔥 The supervised fine-tuning (SFT) and instruction tuning (IT) code of the MMLA benchmark is released ([Link](https://github.com/thuiar/MMLA/tree/main/src/Finetune)), enjoy it! 
 - **[2025.05.06]**: 🔥 🔥 🔥 The zero-shot inference code of the MMLA benchmark is released ([Link](https://github.com/thuiar/MMLA/tree/main/src/Zero-shot_Inference)), enjoy it! The code of SFT and IT will be released soon.
@@ -125,8 +124,6 @@ We show the results of three evaluation methods (i.e., zero-shot inference, SFT,
 #### Instruction Tuning (IT)
 
 ![image-20250415145905173](./figs/it-fine.jpg)
-
-**To do: the code of zero-shot inference, SFT, and IT will be released soon.**
 
 ## Acknowledgements 
 
