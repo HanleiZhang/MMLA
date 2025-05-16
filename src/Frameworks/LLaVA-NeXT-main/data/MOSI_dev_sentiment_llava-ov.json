@@ -1,0 +1,3208 @@
+[
+    {
+        "id": 0,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: i definitely will buy it Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_WKA5OygbEKI$_$20.mp4"
+    },
+    {
+        "id": 1,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: but uh it was worth the free movie passes that i used on it Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_WKA5OygbEKI$_$21.mp4"
+    },
+    {
+        "id": 2,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and thanks for listening to me ramble Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_WKA5OygbEKI$_$22.mp4"
+    },
+    {
+        "id": 3,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: uh i really enjoyed doing them for the philly d movie club so i thought oh why not Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_WKA5OygbEKI$_$1.mp4"
+    },
+    {
+        "id": 4,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: um i i liked a lot of the movie Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_WKA5OygbEKI$_$3.mp4"
+    },
+    {
+        "id": 5,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: uh rango is a really cute movie Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_WKA5OygbEKI$_$2.mp4"
+    },
+    {
+        "id": 6,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: um i pretty much will go see any movie that kind of has an interesting plot if hes in it Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_WKA5OygbEKI$_$5.mp4"
+    },
+    {
+        "id": 7,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: i will admit im a big johnny depp fan Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_WKA5OygbEKI$_$4.mp4"
+    },
+    {
+        "id": 8,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: i mean corpse bride hes really good in corpse bride Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_WKA5OygbEKI$_$7.mp4"
+    },
+    {
+        "id": 9,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: um its not his best Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_WKA5OygbEKI$_$6.mp4"
+    },
+    {
+        "id": 10,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: well its a johnny depp movie so its entertaining Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_WKA5OygbEKI$_$9.mp4"
+    },
+    {
+        "id": 11,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and rango kind of falls into that Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_WKA5OygbEKI$_$8.mp4"
+    },
+    {
+        "id": 12,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: or something i would recommend Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_WKA5OygbEKI$_$11.mp4"
+    },
+    {
+        "id": 13,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: but its not something that i would go buy Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_WKA5OygbEKI$_$10.mp4"
+    },
+    {
+        "id": 14,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: oh it has some really good references of past johnny depp films in it like while the chameleons getting bounced along the highway you run into henry s thompson Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_WKA5OygbEKI$_$13.mp4"
+    },
+    {
+        "id": 15,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: unless you have little kids to bring with you Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_WKA5OygbEKI$_$12.mp4"
+    },
+    {
+        "id": 16,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: i mean johnny depps a wonderful voice actor so um he hes i do hes an incredible voice actor Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_WKA5OygbEKI$_$15.mp4"
+    },
+    {
+        "id": 17,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: uh hes super entertaining as the chameleon Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_WKA5OygbEKI$_$14.mp4"
+    },
+    {
+        "id": 18,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and be this really quirky little chameleon Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_WKA5OygbEKI$_$17.mp4"
+    },
+    {
+        "id": 19,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: like thats really the best part of the movie is listening to him uh pull off all these different voices Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_WKA5OygbEKI$_$16.mp4"
+    },
+    {
+        "id": 20,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: but if you dont really have any small friends uh that sounded really perverted small children that you are related to um to take to the movies uh i wouldnt go see it by myself Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_WKA5OygbEKI$_$19.mp4"
+    },
+    {
+        "id": 21,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: um i i would yeah i would recommend it if you have little kids Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_WKA5OygbEKI$_$18.mp4"
+    },
+    {
+        "id": 22,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: okay and now its late Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_X3j2zQgwYgE$_$11.mp4"
+    },
+    {
+        "id": 23,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: chuckle be forewarned low expectations Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_X3j2zQgwYgE$_$10.mp4"
+    },
+    {
+        "id": 24,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: not great Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_X3j2zQgwYgE$_$1.mp4"
+    },
+    {
+        "id": 25,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: um its just not there Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_X3j2zQgwYgE$_$3.mp4"
+    },
+    {
+        "id": 26,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: sigh i really think what this was missing was that humor and that wit that than the other shrek movies Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_X3j2zQgwYgE$_$2.mp4"
+    },
+    {
+        "id": 27,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: but its really not wonderful Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_X3j2zQgwYgE$_$5.mp4"
+    },
+    {
+        "id": 28,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: its okay Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_X3j2zQgwYgE$_$4.mp4"
+    },
+    {
+        "id": 29,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: there arent a lot of kids movies out right now so Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_X3j2zQgwYgE$_$7.mp4"
+    },
+    {
+        "id": 30,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: nothing to rush out and see Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_X3j2zQgwYgE$_$6.mp4"
+    },
+    {
+        "id": 31,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: but lack you know very lackluster Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_X3j2zQgwYgE$_$9.mp4"
+    },
+    {
+        "id": 32,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and i guess normally shrek is for adults Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_X3j2zQgwYgE$_$8.mp4"
+    },
+    {
+        "id": 33,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: save your money wait til it comes out on rental Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_ZAIRrfG22O0$_$1.mp4"
+    },
+    {
+        "id": 34,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: there were a few funny lines Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_ZAIRrfG22O0$_$3.mp4"
+    },
+    {
+        "id": 35,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: for me it was a waste of time Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_ZAIRrfG22O0$_$2.mp4"
+    },
+    {
+        "id": 36,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: the movie theatre gave me credit to a future movie so that i appreciate it Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_ZAIRrfG22O0$_$5.mp4"
+    },
+    {
+        "id": 37,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: but after an hour i just said enough i had to walk out Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_ZAIRrfG22O0$_$4.mp4"
+    },
+    {
+        "id": 38,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: uh if you didnt like that type of movie then i really dont think youre gonna like this at all Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_ZAIRrfG22O0$_$7.mp4"
+    },
+    {
+        "id": 39,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: uh if you like the kind of movie that ben stiller did a night at the museum then you probably would like something uh like this Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_ZAIRrfG22O0$_$6.mp4"
+    },
+    {
+        "id": 40,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: but uh theres definitely far better movies that you can uh go see than um tongue clicking than zookeeper Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_ZAIRrfG22O0$_$9.mp4"
+    },
+    {
+        "id": 41,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and youre better off saving your money uh and maybe renting it when it comes out on uh video so Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_ZAIRrfG22O0$_$8.mp4"
+    },
+    {
+        "id": 42,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: the picture quality was really great Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_ZUXBRvtny7o$_$24.mp4"
+    },
+    {
+        "id": 43,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: i will even pick up this movie on bluray Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_ZUXBRvtny7o$_$25.mp4"
+    },
+    {
+        "id": 44,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: i will even pick up this movie on bluray um anyways um the movie for me is three starts out of five stars three solid stars Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_ZUXBRvtny7o$_$26.mp4"
+    },
+    {
+        "id": 45,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: cause i had a good time Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_ZUXBRvtny7o$_$27.mp4"
+    },
+    {
+        "id": 46,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: um the ending is open for a sequel Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_ZUXBRvtny7o$_$20.mp4"
+    },
+    {
+        "id": 47,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and uh i am looking forward to see a sequel of this movie Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_ZUXBRvtny7o$_$21.mp4"
+    },
+    {
+        "id": 48,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: because i really dig this movie Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_ZUXBRvtny7o$_$22.mp4"
+    },
+    {
+        "id": 49,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: i really dig this movie Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_ZUXBRvtny7o$_$23.mp4"
+    },
+    {
+        "id": 50,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and uh this movie i was not looking forward to see this movie Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_ZUXBRvtny7o$_$28.mp4"
+    },
+    {
+        "id": 51,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: but it was really good Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_ZUXBRvtny7o$_$29.mp4"
+    },
+    {
+        "id": 52,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: nine ninety screening plus i am number four you cant go wrong with that Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_ZUXBRvtny7o$_$1.mp4"
+    },
+    {
+        "id": 53,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: but i went and i dig this movie Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_ZUXBRvtny7o$_$3.mp4"
+    },
+    {
+        "id": 54,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: i was not looking forward to see this movie Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_ZUXBRvtny7o$_$2.mp4"
+    },
+    {
+        "id": 55,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: plus i had a good time Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_ZUXBRvtny7o$_$5.mp4"
+    },
+    {
+        "id": 56,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: i was happy to see it Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_ZUXBRvtny7o$_$4.mp4"
+    },
+    {
+        "id": 57,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: the soundtrack is good its really good some really great songs Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_ZUXBRvtny7o$_$7.mp4"
+    },
+    {
+        "id": 58,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: im wanting to talk about the good things about this movie Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_ZUXBRvtny7o$_$6.mp4"
+    },
+    {
+        "id": 59,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: um anyways the music is good Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_ZUXBRvtny7o$_$9.mp4"
+    },
+    {
+        "id": 60,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and the best thing about that is that all two songs um well not all of them but some of the songs are not well well connected with the scenes Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_ZUXBRvtny7o$_$8.mp4"
+    },
+    {
+        "id": 61,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: i really dig the special effects of this movie Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_ZUXBRvtny7o$_$11.mp4"
+    },
+    {
+        "id": 62,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: its stuttering that is a good thing Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_ZUXBRvtny7o$_$10.mp4"
+    },
+    {
+        "id": 63,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: amazing special effects Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_ZUXBRvtny7o$_$13.mp4"
+    },
+    {
+        "id": 64,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: like in the middle of the movie it starts with really great action sequences Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_ZUXBRvtny7o$_$12.mp4"
+    },
+    {
+        "id": 65,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: its it was my favorite part of the movie Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_ZUXBRvtny7o$_$15.mp4"
+    },
+    {
+        "id": 66,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and the ending was really really great too Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_ZUXBRvtny7o$_$14.mp4"
+    },
+    {
+        "id": 67,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: i mean the blood is like twilight with some scifi with some action and with likable characters and that that is important guys Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_ZUXBRvtny7o$_$17.mp4"
+    },
+    {
+        "id": 68,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: the main problem of this movie is that this movie is so cheesy Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_ZUXBRvtny7o$_$16.mp4"
+    },
+    {
+        "id": 69,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: not like the characters of of twilight Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_ZUXBRvtny7o$_$19.mp4"
+    },
+    {
+        "id": 70,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: the characters of i am number four are likable Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_ZUXBRvtny7o$_$18.mp4"
+    },
+    {
+        "id": 71,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: the likable characters make this movie a really good movie Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_ZUXBRvtny7o$_$31.mp4"
+    },
+    {
+        "id": 72,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: the acting is its normal its not bad its not bad at all Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_ZUXBRvtny7o$_$30.mp4"
+    },
+    {
+        "id": 73,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: so yeah if you want to have fun this weekend go watch it watch this movie Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_ZUXBRvtny7o$_$34.mp4"
+    },
+    {
+        "id": 74,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: cause its worth it Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_ZUXBRvtny7o$_$33.mp4"
+    },
+    {
+        "id": 75,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: im willing to go with friends alone with family to watch on a rainy day and if you can watch it at half price at a midnight show screening Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_ZUXBRvtny7o$_$32.mp4"
+    },
+    {
+        "id": 76,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: but they took a new spin on it Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI__dI--eQ6qVU$_$24.mp4"
+    },
+    {
+        "id": 77,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and i just loved it Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI__dI--eQ6qVU$_$25.mp4"
+    },
+    {
+        "id": 78,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and i feel like even though the fighting sequences were a little bit long in some places t Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI__dI--eQ6qVU$_$26.mp4"
+    },
+    {
+        "id": 79,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: so i meant if i was wearing 3d glasses and was seeing this in 3d i wouldve enjoyed it a lot more Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI__dI--eQ6qVU$_$27.mp4"
+    },
+    {
+        "id": 80,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and just different Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI__dI--eQ6qVU$_$20.mp4"
+    },
+    {
+        "id": 81,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: it engages the audience more Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI__dI--eQ6qVU$_$21.mp4"
+    },
+    {
+        "id": 82,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and i just really enjoyed it Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI__dI--eQ6qVU$_$22.mp4"
+    },
+    {
+        "id": 83,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: the green hornet did something similar Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI__dI--eQ6qVU$_$23.mp4"
+    },
+    {
+        "id": 84,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and i would want the sequences to be even longer rather than shorter Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI__dI--eQ6qVU$_$28.mp4"
+    },
+    {
+        "id": 85,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: but i can safely assure you that even if they didnt it would still be a hit Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI__dI--eQ6qVU$_$1.mp4"
+    },
+    {
+        "id": 86,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: i dont know if fans of the comic would be as inclined to say the same because i dont know how much it differs from the comic or radio program that people like so much Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI__dI--eQ6qVU$_$3.mp4"
+    },
+    {
+        "id": 87,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and i loved it Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI__dI--eQ6qVU$_$2.mp4"
+    },
+    {
+        "id": 88,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and i would tell you right now it was hilarious Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI__dI--eQ6qVU$_$5.mp4"
+    },
+    {
+        "id": 89,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: but just going into this a as an observer and someone who has no idea it was a fantastic film it was so much fun Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI__dI--eQ6qVU$_$4.mp4"
+    },
+    {
+        "id": 90,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and most of you know hes a pretty funny guy Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI__dI--eQ6qVU$_$7.mp4"
+    },
+    {
+        "id": 91,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: it was really really funny Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI__dI--eQ6qVU$_$6.mp4"
+    },
+    {
+        "id": 92,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: so that doesnt surprise me Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI__dI--eQ6qVU$_$9.mp4"
+    },
+    {
+        "id": 93,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and he funnied up this movie big time totally Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI__dI--eQ6qVU$_$8.mp4"
+    },
+    {
+        "id": 94,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: i feel like if they woudlnt have inserted the humor into this movie it wouldve been just too serious and kind of boring in a sense Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI__dI--eQ6qVU$_$11.mp4"
+    },
+    {
+        "id": 95,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and the humor it was kind of necessary Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI__dI--eQ6qVU$_$10.mp4"
+    },
+    {
+        "id": 96,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and the action sequences in this movie are tensed Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI__dI--eQ6qVU$_$13.mp4"
+    },
+    {
+        "id": 97,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: but the humor really just nailed it Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI__dI--eQ6qVU$_$12.mp4"
+    },
+    {
+        "id": 98,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: when they just come up with these totally completely new stylized ways of developing action sequences Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI__dI--eQ6qVU$_$15.mp4"
+    },
+    {
+        "id": 99,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: i love when people do this Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI__dI--eQ6qVU$_$14.mp4"
+    },
+    {
+        "id": 100,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: but when they figure out a new way to interpret this Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI__dI--eQ6qVU$_$17.mp4"
+    },
+    {
+        "id": 101,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: coz sure its fun to see a super hero go round and kick bad guy butt you know punch kick whatever bam Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI__dI--eQ6qVU$_$16.mp4"
+    },
+    {
+        "id": 102,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: that makes it more visually truly appealing Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI__dI--eQ6qVU$_$19.mp4"
+    },
+    {
+        "id": 103,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and add something like an extra spark in there Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI__dI--eQ6qVU$_$18.mp4"
+    },
+    {
+        "id": 104,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: the acting could be better and is very medio Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_aiEXnCPZubE$_$24.mp4"
+    },
+    {
+        "id": 105,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: there is some sort of greatness to sucker punch though Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_aiEXnCPZubE$_$25.mp4"
+    },
+    {
+        "id": 106,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: first the visual effects here are stellar Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_aiEXnCPZubE$_$26.mp4"
+    },
+    {
+        "id": 107,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: they are unique Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_aiEXnCPZubE$_$27.mp4"
+    },
+    {
+        "id": 108,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: but they you know they they bring nothing to this table Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_aiEXnCPZubE$_$20.mp4"
+    },
+    {
+        "id": 109,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and which hurts the film drastically Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_aiEXnCPZubE$_$21.mp4"
+    },
+    {
+        "id": 110,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: because they are interesting characters Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_aiEXnCPZubE$_$22.mp4"
+    },
+    {
+        "id": 111,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and could have interesting back stories Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_aiEXnCPZubE$_$23.mp4"
+    },
+    {
+        "id": 112,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: incredible icandy Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_aiEXnCPZubE$_$28.mp4"
+    },
+    {
+        "id": 113,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and just overall superb Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_aiEXnCPZubE$_$29.mp4"
+    },
+    {
+        "id": 114,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: browning is mediocre role Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_aiEXnCPZubE$_$1.mp4"
+    },
+    {
+        "id": 115,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: she isnt terrible Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_aiEXnCPZubE$_$3.mp4"
+    },
+    {
+        "id": 116,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: theres never a feeling of star quality with her Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_aiEXnCPZubE$_$2.mp4"
+    },
+    {
+        "id": 117,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: like the average horror film the uninvited Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_aiEXnCPZubE$_$5.mp4"
+    },
+    {
+        "id": 118,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: but quite frankly she is implausible Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_aiEXnCPZubE$_$4.mp4"
+    },
+    {
+        "id": 119,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and i dont know why people are hating on the film because i really do love it Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_aiEXnCPZubE$_$7.mp4"
+    },
+    {
+        "id": 120,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and visually stunning Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_aiEXnCPZubE$_$6.mp4"
+    },
+    {
+        "id": 121,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and is upstaged by many other performances in the film Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_aiEXnCPZubE$_$9.mp4"
+    },
+    {
+        "id": 122,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: overall browning is just fails to deliver Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_aiEXnCPZubE$_$8.mp4"
+    },
+    {
+        "id": 123,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: the hits include oscar isaak as the main villain like i said blue jena malone is the soft spoken rocket and the stealing abby cornish is sweet pea a troubled and reluctant young woman in the pack Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_aiEXnCPZubE$_$11.mp4"
+    },
+    {
+        "id": 124,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: the supporting cast is either hit or miss Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_aiEXnCPZubE$_$10.mp4"
+    },
+    {
+        "id": 125,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: who doesnt have any presents or greatness at all Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_aiEXnCPZubE$_$13.mp4"
+    },
+    {
+        "id": 126,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: the misses include you know vanessa hudgens Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_aiEXnCPZubE$_$12.mp4"
+    },
+    {
+        "id": 127,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: whos accent is so aweful Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_aiEXnCPZubE$_$15.mp4"
+    },
+    {
+        "id": 128,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and the other horrible i mean absolutely atrocious carla gugino as doctor vera gorski Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_aiEXnCPZubE$_$14.mp4"
+    },
+    {
+        "id": 129,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and her character is also undeveloped and weak Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_aiEXnCPZubE$_$17.mp4"
+    },
+    {
+        "id": 130,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and whos is ridiculous Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_aiEXnCPZubE$_$16.mp4"
+    },
+    {
+        "id": 131,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and they could have great back stories Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_aiEXnCPZubE$_$19.mp4"
+    },
+    {
+        "id": 132,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: jon hamm and scott glenn could bring you know they could be interesting characters Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_aiEXnCPZubE$_$18.mp4"
+    },
+    {
+        "id": 133,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and the action in the movie is so well used Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_aiEXnCPZubE$_$30.mp4"
+    },
+    {
+        "id": 134,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: now let just get into two things that will possibly attract you to this film the violence and the 3d Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_atnd_PF-Lbs$_$11.mp4"
+    },
+    {
+        "id": 135,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: its a joke really Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_atnd_PF-Lbs$_$10.mp4"
+    },
+    {
+        "id": 136,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: the violence here is pretty bad Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_atnd_PF-Lbs$_$13.mp4"
+    },
+    {
+        "id": 137,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: viewers please resist from these two Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_atnd_PF-Lbs$_$12.mp4"
+    },
+    {
+        "id": 138,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: the tire decapitation might not sound all that unique Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_atnd_PF-Lbs$_$15.mp4"
+    },
+    {
+        "id": 139,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: therere about two creative scenes in here um one being in intestinal journey through the rectum in a swimming pool drain and a tire decapitation that Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_atnd_PF-Lbs$_$14.mp4"
+    },
+    {
+        "id": 140,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: i mean not the sick like oh my god that was awesome Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_atnd_PF-Lbs$_$17.mp4"
+    },
+    {
+        "id": 141,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: but the way its pulled off its like wow that was sick Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_atnd_PF-Lbs$_$16.mp4"
+    },
+    {
+        "id": 142,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: theres many different ways of saying sick nowadays Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_atnd_PF-Lbs$_$19.mp4"
+    },
+    {
+        "id": 143,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: no sick in the oh my god that was crazy that kind of sick Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_atnd_PF-Lbs$_$18.mp4"
+    },
+    {
+        "id": 144,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: but um yeah wow agh say that in two shee two scenes death isnt even nearly unique is a bit harsh Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_atnd_PF-Lbs$_$20.mp4"
+    },
+    {
+        "id": 145,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: its bad Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_atnd_PF-Lbs$_$1.mp4"
+    },
+    {
+        "id": 146,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: im not even gonna go to the lows to make a whole night video about this movie Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_atnd_PF-Lbs$_$3.mp4"
+    },
+    {
+        "id": 147,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: oh god this is bad Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_atnd_PF-Lbs$_$2.mp4"
+    },
+    {
+        "id": 148,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: i hate it Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_atnd_PF-Lbs$_$5.mp4"
+    },
+    {
+        "id": 149,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: so no now know this i am not a fan of the final destination series Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_atnd_PF-Lbs$_$4.mp4"
+    },
+    {
+        "id": 150,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: but as far as im concerned this series is garbage Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_atnd_PF-Lbs$_$7.mp4"
+    },
+    {
+        "id": 151,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: i might have to watch the first two again or maybe just the first one to stabilize my thoughts on the series Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_atnd_PF-Lbs$_$6.mp4"
+    },
+    {
+        "id": 152,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: now i wont even talk about acting coz its just so bad Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_atnd_PF-Lbs$_$9.mp4"
+    },
+    {
+        "id": 153,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: you can sense my excitement when i heard this was being released Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_atnd_PF-Lbs$_$8.mp4"
+    },
+    {
+        "id": 154,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: the race stadium scene and the mall scenes in the beginning and the end where massive amounts of people die in the craziest ways are pretty good for late night buddy viewing you see you know what i mean by late night buddy viewings Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_atnd_PF-Lbs$_$21.mp4"
+    },
+    {
+        "id": 155,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: so it was just a little awkward Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bOL9jKpeJRs$_$24.mp4"
+    },
+    {
+        "id": 156,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: so it was just a little awkward Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bOL9jKpeJRs$_$25.mp4"
+    },
+    {
+        "id": 157,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: but um weve overcome that Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bOL9jKpeJRs$_$26.mp4"
+    },
+    {
+        "id": 158,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: you know a lot of people have been talking about the expendables even though it came out such a long time agao Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bOL9jKpeJRs$_$27.mp4"
+    },
+    {
+        "id": 159,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: my boyfriend got really excited when i told him we were gonna go see the expandables Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bOL9jKpeJRs$_$20.mp4"
+    },
+    {
+        "id": 160,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and than um when i went to blockbuster and i picked it up and i brought it back home he got really disappointed Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bOL9jKpeJRs$_$21.mp4"
+    },
+    {
+        "id": 161,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: i think its because it was such a moving film Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bOL9jKpeJRs$_$22.mp4"
+    },
+    {
+        "id": 162,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and i dont think he knows how to handle his emotions in that department Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bOL9jKpeJRs$_$23.mp4"
+    },
+    {
+        "id": 163,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: theres been a lot of buzz about it lately and everyones you know a lot of controversy over it Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bOL9jKpeJRs$_$28.mp4"
+    },
+    {
+        "id": 164,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: everyones been saying its really intense Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bOL9jKpeJRs$_$29.mp4"
+    },
+    {
+        "id": 165,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and i was unbelievably shocked how much i loved it Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bOL9jKpeJRs$_$1.mp4"
+    },
+    {
+        "id": 166,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: great dialogue Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bOL9jKpeJRs$_$3.mp4"
+    },
+    {
+        "id": 167,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: it was full of action Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bOL9jKpeJRs$_$2.mp4"
+    },
+    {
+        "id": 168,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: its really just a heart warming story Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bOL9jKpeJRs$_$5.mp4"
+    },
+    {
+        "id": 169,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: the characters were so great and well developed Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bOL9jKpeJRs$_$4.mp4"
+    },
+    {
+        "id": 170,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: its not that violent Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bOL9jKpeJRs$_$7.mp4"
+    },
+    {
+        "id": 171,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: its a great movie to see over and over again your whole family can see it Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bOL9jKpeJRs$_$6.mp4"
+    },
+    {
+        "id": 172,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: i really realy felt for the dad in the expendables Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bOL9jKpeJRs$_$9.mp4"
+    },
+    {
+        "id": 173,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: xxx it is a teenytiny bit violent and not enough so you can bring your 5 year old Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bOL9jKpeJRs$_$8.mp4"
+    },
+    {
+        "id": 174,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: the dad was just really protective Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bOL9jKpeJRs$_$11.mp4"
+    },
+    {
+        "id": 175,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: because he was protecting over his family and after they went missing even though theyre a bend of outsiders and thay have all those powers Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bOL9jKpeJRs$_$10.mp4"
+    },
+    {
+        "id": 176,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: very heart warming Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bOL9jKpeJRs$_$13.mp4"
+    },
+    {
+        "id": 177,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and he made sure that hes whole family was safe Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bOL9jKpeJRs$_$12.mp4"
+    },
+    {
+        "id": 178,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: brad bird is a great writer and director Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bOL9jKpeJRs$_$15.mp4"
+    },
+    {
+        "id": 179,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: very touching Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bOL9jKpeJRs$_$14.mp4"
+    },
+    {
+        "id": 180,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: it was so cute Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bOL9jKpeJRs$_$17.mp4"
+    },
+    {
+        "id": 181,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: um i think that my favorite part of the entire movie was when you find out at the end that the little baby had powers Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bOL9jKpeJRs$_$16.mp4"
+    },
+    {
+        "id": 182,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: i really recommend you all see the expendables Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bOL9jKpeJRs$_$19.mp4"
+    },
+    {
+        "id": 183,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: just the great great movie Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bOL9jKpeJRs$_$18.mp4"
+    },
+    {
+        "id": 184,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: there are parts that are very intense Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bOL9jKpeJRs$_$31.mp4"
+    },
+    {
+        "id": 185,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: i can see that Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bOL9jKpeJRs$_$30.mp4"
+    },
+    {
+        "id": 186,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: i know you guys are gonna love it Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bOL9jKpeJRs$_$34.mp4"
+    },
+    {
+        "id": 187,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: so go see the expendables Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bOL9jKpeJRs$_$33.mp4"
+    },
+    {
+        "id": 188,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: but for the most part it is a family friendly warm and fuzzy movievoovie Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bOL9jKpeJRs$_$32.mp4"
+    },
+    {
+        "id": 189,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: it just it felt kind of cut and dry Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bvLlb-M3UXU$_$24.mp4"
+    },
+    {
+        "id": 190,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: which would start the planning that i wish it has happened earlier in their careers Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bvLlb-M3UXU$_$25.mp4"
+    },
+    {
+        "id": 191,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and i dont know if this scene took place fefteen twenty years ago when those guys were absolutely prime it wouldve been just um absolutely breath taking monumental moment in cinematic history Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bvLlb-M3UXU$_$20.mp4"
+    },
+    {
+        "id": 192,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: but seeing it today now when it was really nothing more than just a one xxx ship Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bvLlb-M3UXU$_$21.mp4"
+    },
+    {
+        "id": 193,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: it lost a lot of feeling Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bvLlb-M3UXU$_$22.mp4"
+    },
+    {
+        "id": 194,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: it wasnt the final you know finally happened u uniting that we all come to expect Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bvLlb-M3UXU$_$23.mp4"
+    },
+    {
+        "id": 195,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and its really what you wouldve expact Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bvLlb-M3UXU$_$1.mp4"
+    },
+    {
+        "id": 196,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: theres little to no character development all movie Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bvLlb-M3UXU$_$3.mp4"
+    },
+    {
+        "id": 197,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: its not a compelling narrative by any means Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bvLlb-M3UXU$_$2.mp4"
+    },
+    {
+        "id": 198,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and really theres no humongous tale to these guys Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bvLlb-M3UXU$_$5.mp4"
+    },
+    {
+        "id": 199,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and yet this movie is incredibly enjoyable for action fans Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bvLlb-M3UXU$_$4.mp4"
+    },
+    {
+        "id": 200,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: but you know what you dont need a complecated formula for an action movie Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bvLlb-M3UXU$_$7.mp4"
+    },
+    {
+        "id": 201,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: not a complicated story Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bvLlb-M3UXU$_$6.mp4"
+    },
+    {
+        "id": 202,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: this movie essentially was made for three reasons in my opinion Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bvLlb-M3UXU$_$9.mp4"
+    },
+    {
+        "id": 203,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: theres a bad guy guy go take him down thats really all you need Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bvLlb-M3UXU$_$8.mp4"
+    },
+    {
+        "id": 204,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and thats you know all thats all you really needed to do Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bvLlb-M3UXU$_$11.mp4"
+    },
+    {
+        "id": 205,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: the first reason is the obvious just to make an exciting enjoyable action film Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bvLlb-M3UXU$_$10.mp4"
+    },
+    {
+        "id": 206,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: the second reason this movie was made and in my opinion the real reason it was made again its silvestre stalone telling himself i still got it Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bvLlb-M3UXU$_$13.mp4"
+    },
+    {
+        "id": 207,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and definatelly comes through on that Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bvLlb-M3UXU$_$12.mp4"
+    },
+    {
+        "id": 208,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: hes in terrific shape for a man twice my age who looks significantly better than me Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bvLlb-M3UXU$_$15.mp4"
+    },
+    {
+        "id": 209,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: um ive got to give him credit Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bvLlb-M3UXU$_$14.mp4"
+    },
+    {
+        "id": 210,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: but hey whatever and is showing yeah maybe hes not what he was twenty twenty five years ago but he still has every right to be billed as an action star Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bvLlb-M3UXU$_$17.mp4"
+    },
+    {
+        "id": 211,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: thats kind of made me feel depressed Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bvLlb-M3UXU$_$16.mp4"
+    },
+    {
+        "id": 212,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: because you know its basically it was stalone knowing these guys arent in the shape they were twenty twenty five years ago Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bvLlb-M3UXU$_$19.mp4"
+    },
+    {
+        "id": 213,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: theres actually yeah yeah scenes triple stand off with silvestre arnold swarzeneger bruce willis and yeah actually in a way kind of fell hollow Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_bvLlb-M3UXU$_$18.mp4"
+    },
+    {
+        "id": 214,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: i mean you dont see why these two people love each other Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_c5xsKMxpXnc$_$11.mp4"
+    },
+    {
+        "id": 215,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and it is very rushed Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_c5xsKMxpXnc$_$10.mp4"
+    },
+    {
+        "id": 216,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: like they have their own separate character development but none where these two should be together Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_c5xsKMxpXnc$_$13.mp4"
+    },
+    {
+        "id": 217,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: theres no character development really with these two Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_c5xsKMxpXnc$_$12.mp4"
+    },
+    {
+        "id": 218,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: you dont see why they should like each other cause they dont show it in the movie Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_c5xsKMxpXnc$_$15.mp4"
+    },
+    {
+        "id": 219,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: theres no reason why they should be together Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_c5xsKMxpXnc$_$14.mp4"
+    },
+    {
+        "id": 220,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and i thought this movie was gonna be really good because matt damon was in it Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_c5xsKMxpXnc$_$1.mp4"
+    },
+    {
+        "id": 221,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: like they talk for like five minutes and instantly kiss which is dumb Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_c5xsKMxpXnc$_$3.mp4"
+    },
+    {
+        "id": 222,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and i was really disappointed Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_c5xsKMxpXnc$_$2.mp4"
+    },
+    {
+        "id": 223,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: but they did not execute it very well Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_c5xsKMxpXnc$_$5.mp4"
+    },
+    {
+        "id": 224,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: what i liked about this movie was the concept was cool Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: positive"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_c5xsKMxpXnc$_$4.mp4"
+    },
+    {
+        "id": 225,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: this movie is terrible for these reasons Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_c5xsKMxpXnc$_$7.mp4"
+    },
+    {
+        "id": 226,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: and they left a lot of plot holes Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_c5xsKMxpXnc$_$6.mp4"
+    },
+    {
+        "id": 227,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: you dont feel that these two people love each other Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_c5xsKMxpXnc$_$9.mp4"
+    },
+    {
+        "id": 228,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are presented with a video in which the speaker says: number one because the love is forced Based on the text, video, and audio content, what is the sentiment of this speaker?\nThe candidate labels for sentiment are: [positive, negative]. Respond in the format: 'sentiment: [label]'. Only one label should be provided."
+            },
+            {
+                "from": "gpt",
+                "value": "sentiment: negative"
+            }
+        ],
+        "images": "/mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/Datasets/MOSI/video/MOSI_c5xsKMxpXnc$_$8.mp4"
+    }
+]
