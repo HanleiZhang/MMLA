@@ -1,0 +1,10 @@
+
+    model_name_or_path: /mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/llm_checkpoints/Qwen2-VL-72B-Instruct
+    adapter_name_or_path: /mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/models_it/Instruct/Qwen2-VL-72B-Instruct_IT/checkpoint-30
+    template: qwen2_vl
+    finetuning_type: lora
+
+    export_dir: /mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/merge_models_it/Instruct/Qwen2-VL-72B-Instruct_IT
+    export_size: 2
+    export_device: cpu
+    export_legacy_format: false
