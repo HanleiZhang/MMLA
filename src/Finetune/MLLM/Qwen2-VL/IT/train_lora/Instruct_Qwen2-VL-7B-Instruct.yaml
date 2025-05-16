@@ -1,0 +1,34 @@
+model_name_or_path: /mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/llm_checkpoints/Qwen2-VL-7B-Instruct
+stage: sft
+do_train: true
+finetuning_type: lora
+lora_target: all
+deepspeed: /mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/MMLA/src/Frameworks/LLaMA-Factory-main/examples/deepspeed/ds_z3_offload_config.json
+
+dataset: Instruct_train_llamafactory
+dataset_dir: /mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/MMLA/src/Frameworks/LLaMA-Factory-main/data
+eval_dataset: Instruct_dev_llamafactory
+template: qwen2_vl
+cutoff_len: 1024
+overwrite_cache: true
+preprocessing_num_workers: 32
+
+output_dir: /mnt/gemininjceph2/geminicephfs/wx-mm-spr-xxxx/zhanghanlei/models_it/Instruct/Qwen2-VL-7B-Instruct_IT
+logging_steps: 10
+save_steps: 10
+plot_loss: true
+overwrite_output_dir: true
+compute_accuracy: true
+
+per_device_train_batch_size: 8
+gradient_accumulation_steps: 4
+learning_rate: 1.0e-4
+num_train_epochs: 5
+lr_scheduler_type: cosine
+warmup_ratio: 0.3
+bf16: true
+ddp_timeout: 180000000
+
+per_device_eval_batch_size: 2
+eval_strategy: steps
+eval_steps: 10
