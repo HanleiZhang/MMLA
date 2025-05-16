@@ -1,0 +1,2 @@
+[console_scripts]
+swift = swift.cli.main:cli_main
