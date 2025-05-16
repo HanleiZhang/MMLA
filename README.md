@@ -31,7 +31,7 @@
     <img src="./figs/radar_it.jpg" style="width: 32%;" alt="radar">
 </div>
 
-## Evaluation Datasets
+## Supported Datasets
 
 |       Dimension        |       Dataset       |                            Source                            |                 Venue                  |
 | :--------------------: | :-----------------: | :----------------------------------------------------------: | :------------------------------------: |
@@ -53,7 +53,7 @@ The raw text and videos of each dataset all released on [Huggingface](https://hu
 
 Note that for MOSI, IEMOCAP, and IEMOCAP-DA datasets, we only provide the raw texts due to their restricted license. The raw videos of IEMOCAP can be downloaded from [here](https://sail.usc.edu/iemocap/iemocap_release.htm). The MOSI dataset cannot be released due to the privacy limitation as mentioned in [CMU-MultimodalSDK](https://github.com/CMU-MultiComp-Lab/CMU-MultimodalSDK).
 
-## Evaluation Models
+## Supported Models
 
 |        Models         |                     Model scale and Link                     |                            Source                            | Type |
 | :-------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--: |
