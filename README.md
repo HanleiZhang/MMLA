@@ -11,7 +11,7 @@
 
 
 ## Updates
-- **[2025.05.06]**: 🔥 🔥 🔥 The supervised fine-tuning (SFT) and instruction tuning (IT) code of the MMLA benchmark is released ([Link](https://github.com/thuiar/MMLA/tree/main/src/Finetune)), enjoy it! 
+- **[2025.05.16]**: 🔥 🔥 🔥 The supervised fine-tuning (SFT) and instruction tuning (IT) code of the MMLA benchmark is released ([Link](https://github.com/thuiar/MMLA/tree/main/src/Finetune)), enjoy it! 
 - **[2025.05.06]**: 🔥 🔥 🔥 The zero-shot inference code of the MMLA benchmark is released ([Link](https://github.com/thuiar/MMLA/tree/main/src/Zero-shot_Inference)), enjoy it! The code of SFT and IT will be released soon.
 - **[2025.04.29]**: The datasets of the MMLA benchmark are released on [Huggingface](https://huggingface.co/datasets/THUIAR/MMLA-Datasets) and [Google Drive](https://drive.google.com/drive/folders/1nCkhkz72F6ucseB73XVbqCaDG-pjhpSS?usp=sharing)! The code will be released soon.
 - **[2025.04.24]**: 📜 Our paper: **Can Large Language Models Help Multimodal Language Analysis? MMLA: A Comprehensive Benchmark** is released ([arXiv](https://arxiv.org/abs/2504.16427), [Huggingface](https://huggingface.co/papers/2504.16427), [alphaXiv](https://www.alphaxiv.org/abs/2504.16427)). The official repo is released on Github.
